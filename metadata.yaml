@@ -21,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/8053
     wikipedia: http://de.wikipedia.org/wiki/Friedrich_Gerst%C3%A4cker
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/42672#The-wanderings-and-fortunes-of-some-German-emigrants
 gutenberg_issued: '2013-05-09'
 gutenberg_type: Text
 identifiers:

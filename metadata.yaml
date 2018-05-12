@@ -1,0 +1,37 @@
+_repo: The-wanderings-and-fortunes-of-some-German-emigrants_42672
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Black, David
+    gutenberg_agent_id: '41810'
+    url: http://www.gutenberg.org/2009/agents/41810
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Gerstäcker, Friedrich
+    aliases:
+    - Gerstaecker, Frederick
+    - Gerstacker, Friedrich
+    - Gerstäcker, Friedrich Wilhelm Christian
+    birthdate: 1816
+    deathdate: 1872
+    gutenberg_agent_id: '8053'
+    url: http://www.gutenberg.org/2009/agents/8053
+    wikipedia: http://de.wikipedia.org/wiki/Friedrich_Gerst%C3%A4cker
+description: ''
+gutenberg_issued: '2013-05-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42672'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Immigrants -- Fiction'
+- !lcc 'PT'
+- !lcsh 'Germany -- Emigration and immigration -- Fiction'
+title: The wanderings and fortunes of some German emigrants
+url: http://www.gutenberg.org/ebooks/42672
